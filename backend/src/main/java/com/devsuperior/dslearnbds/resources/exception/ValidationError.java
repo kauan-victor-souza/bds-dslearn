@@ -1,4 +1,4 @@
-package com.devsuperior.dslearnbds.entities.resources.exception;
+package com.devsuperior.dslearnbds.resources.exception;
 
 import java.util.ArrayList;
 import java.util.List;
